@@ -21,15 +21,7 @@ Estou formando em Sistema da Informação
 <i>
 <br />
 
-> Olá sou o Adriano, atuo como desenvolvedor há mais de 10 anos. 
-Gosto muito de estar atualizado em relação as tecnologias e sempre que possível desenvolvo uma POC para testar e fixar o conhecimento nas tecnologias estudadas.
 
-> Minha maior atuação foi no backend e tecnologias como Java, PHP, Kotlin, Python
-Trabalhei com alguns frameworks backend como Spring Boot, Quarkus, Ktor, Laravel, PySpark 
-Nesse período atuei um pouquinho com front com framworks como jQuery, AngularJS, KnockoutJS, ReactJS.
-
-> Já atuei temporariamente como Lider técnico, fazendo refinamentos e delegando tarefas.
-Sempre que possível compartilho conhecimento e acho muito importante esse compartilhamento
 </i>
 
 
