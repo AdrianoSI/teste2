@@ -30,6 +30,4 @@ Estou formando em Sistema da Informação
 ### Habilidades
 
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=adrianoPereiraSilva&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdrianoPereiraSilva&show_icons=true&theme=transparent&bg_color=000&border_color=30A3DC&title_color=E94D5F&include_all_commits=true&count_private=true&text_color=fff&icon_color=00BFFF)
