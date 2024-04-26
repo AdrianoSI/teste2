@@ -6,9 +6,11 @@
 
 ### Analista de suporte local a mais de 8 anos 
 Estou formando em Sistema da Informação
+<br/>
+<b/>
 <i>(Goiannira, GO - Brasil)</i>
 
-### Conecte-se comigo
+### Conexões
 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriano-pereira-249a933b/)
@@ -17,7 +19,7 @@ Estou formando em Sistema da Informação
 <br />
 <br />
 
-###  Sobre
+
 <i>
 <br />
 
@@ -27,7 +29,7 @@ Estou formando em Sistema da Informação
 
 <br />
 
-### Habilidades
+
 
 
 
