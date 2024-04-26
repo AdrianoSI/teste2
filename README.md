@@ -11,7 +11,7 @@ Estou formando em Sistema da Informação
 ### Conecte-se comigo
 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([://whttpsww.linkedin.com/in/Adriano Pereira da Silva/](https://www.linkedin.com/in/adriano-pereira-249a933b/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriano-pereira-249a933b/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdrianoSI)
 <br />
